@@ -13,7 +13,7 @@
     <RootNamespace>DocProject</RootNamespace>
     <Name>DocProject</Name>
     <!-- SHFB properties -->
-    <FrameworkVersion>.NET Framework 4.6.2</FrameworkVersion>
+    <FrameworkVersion>.NET Framework 4.6.1</FrameworkVersion>
     <OutputPath>.\Help\</OutputPath>
     <HtmlHelpName>DocProject</HtmlHelpName>
     <Language>en-US</Language>
